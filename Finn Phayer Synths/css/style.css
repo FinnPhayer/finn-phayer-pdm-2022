@@ -1,0 +1,34 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+#reverbSlider{
+  width: 350px;
+  height: 25px;
+  background-color:burlywood;
+  position: relative;
+  top: 150px;
+  left: 41px;
+}
+
+#delaySlider{
+  width: 350px;
+  height: 25px;
+  background-color:burlywood;
+  position: relative;
+  top: 200px;
+  left: 41px;
+}
+
+#delayFeedbackSlider{
+  width: 350px;
+  height: 25px;
+  background-color:burlywood;
+  position: relative;
+  top: 250px;
+  left: 41px;
+}
